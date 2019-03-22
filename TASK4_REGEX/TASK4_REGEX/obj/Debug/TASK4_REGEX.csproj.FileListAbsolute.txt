@@ -1,0 +1,7 @@
+C:\Users\LENOVO-PC\source\repos\TASK4_REGEX\TASK4_REGEX\bin\Debug\TASK4_REGEX.exe.config
+C:\Users\LENOVO-PC\source\repos\TASK4_REGEX\TASK4_REGEX\bin\Debug\TASK4_REGEX.exe
+C:\Users\LENOVO-PC\source\repos\TASK4_REGEX\TASK4_REGEX\bin\Debug\TASK4_REGEX.pdb
+C:\Users\LENOVO-PC\source\repos\TASK4_REGEX\TASK4_REGEX\obj\Debug\TASK4_REGEX.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-PC\source\repos\TASK4_REGEX\TASK4_REGEX\obj\Debug\TASK4_REGEX.exe
+C:\Users\LENOVO-PC\source\repos\TASK4_REGEX\TASK4_REGEX\obj\Debug\TASK4_REGEX.pdb
+C:\Users\LENOVO-PC\source\repos\TASK4_REGEX\TASK4_REGEX\obj\Debug\TASK4_REGEX.csprojAssemblyReference.cache

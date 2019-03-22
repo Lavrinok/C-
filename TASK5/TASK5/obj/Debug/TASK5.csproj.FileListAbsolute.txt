@@ -1,0 +1,7 @@
+C:\Users\LENOVO-PC\source\repos\TASK5\TASK5\obj\Debug\TASK5.csprojAssemblyReference.cache
+C:\Users\LENOVO-PC\source\repos\TASK5\TASK5\obj\Debug\TASK5.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-PC\source\repos\TASK5\TASK5\bin\Debug\TASK5.exe.config
+C:\Users\LENOVO-PC\source\repos\TASK5\TASK5\bin\Debug\TASK5.exe
+C:\Users\LENOVO-PC\source\repos\TASK5\TASK5\bin\Debug\TASK5.pdb
+C:\Users\LENOVO-PC\source\repos\TASK5\TASK5\obj\Debug\TASK5.exe
+C:\Users\LENOVO-PC\source\repos\TASK5\TASK5\obj\Debug\TASK5.pdb
